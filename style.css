@@ -1,0 +1,19 @@
+.img{
+    height: 339px;
+    width: 93%;
+    align-items: center;
+}
+
+
+.headline{
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div,.div2{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
